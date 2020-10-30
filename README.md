@@ -1,6 +1,6 @@
 # gitexercise.md
  git operations excecise
-Emoji 
-first edit
-second edit
+- Emoji 
+- first edit
+- second edit
 
